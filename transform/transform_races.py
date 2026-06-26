@@ -1,7 +1,6 @@
 import json
 import pandas as pd
-from config import RAW_DATA_PATH
-from pprint import pprint
+from config import PROCESSED_DATA_PATH
 from transform.transform_drivers import load_and_fetch
 
 races = load_and_fetch("races.json")["RaceTable"]["Races"]
@@ -20,9 +19,27 @@ races_df.drop(
     axis=1,
     inplace=True,
 )
-races_df["circuit_id"] = races_df["Circuit"].apply(lambda x: x["circuitId"])
-races_df["circuit_name"] = races_df["Circuit"].apply(lambda x: x["circuitName"])
-races_df["country"] = races_df["Circuit"].apply(lambda x: x["Location"]["country"])
-races_df["city"] = races_df["Circuit"].apply(lambda x: x["Location"]["locality"])
+
+# races_df["circuit_id"] = races_df["Circuit"].apply(lambda x: x["circuitId"])
+# races_df["circuit_name"] = races_df["Circuit"].apply(lambda x: x["circuitName"])
+
+# instead of repeated .apply() use json_normalize()
+circuits = pd.json_normalize(races_df["Circuit"])
+circuits = circuits[
+    ["circuitId", "circuitName", "Location.country", "Location.locality"]
+].rename(
+    columns={
+        "circuitId": "circuit_id",
+        "circuitName": "circuit_name",
+        "Location.country": "country",
+        "Location.locality": "locality",
+    }
+)
+
 races_df.drop("Circuit", axis=1, inplace=True)
-print(races_df)
+
+races_df = pd.concat([races_df, circuits], axis=1)
+
+# print(races_df)
+
+races_df.to_csv(f'{PROCESSED_DATA_PATH}/races.csv', index=False)

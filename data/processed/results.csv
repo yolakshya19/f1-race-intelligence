@@ -1,0 +1,31 @@
+season,round,driver_id,constructor_id,grid,position,points,laps,status,timing,fastest_lap,fastest_lap_rank
+2026,1,russell,mercedes,1,1,25,58,Finished,1:23:06.801,1:22.670,6
+2026,1,antonelli,mercedes,2,2,18,58,Finished,+2.974,1:22.417,3
+2026,1,leclerc,ferrari,4,3,15,58,Finished,+15.519,1:22.579,5
+2026,1,hamilton,ferrari,7,4,12,58,Finished,+16.144,1:22.423,4
+2026,1,norris,mclaren,6,5,10,58,Finished,+51.741,1:22.358,2
+2026,1,max_verstappen,red_bull,20,6,8,58,Finished,+54.617,1:22.091,1
+2026,1,bearman,haas,12,7,6,57,Lapped,+4.593,1:24.020,11
+2026,1,arvid_lindblad,rb,9,8,4,57,Lapped,+11.816,1:24.182,12
+2026,1,bortoleto,audi,10,9,2,57,Lapped,+12.775,1:23.257,8
+2026,1,gasly,alpine,14,10,1,57,Lapped,+29.027,1:24.486,15
+2026,1,ocon,haas,13,11,0,57,Lapped,+29.850,1:24.424,14
+2026,1,albon,williams,15,12,0,57,Lapped,+56.075,1:24.375,13
+2026,1,lawson,rb,8,13,0,57,Lapped,+57.173,1:23.783,10
+2026,1,colapinto,alpine,16,14,0,56,Lapped,+8.487,1:22.926,7
+2026,1,sainz,williams,21,15,0,56,Lapped,+36.886,1:23.590,9
+2026,1,perez,cadillac,18,16,0,55,Lapped,+7.850,1:26.070,19
+2026,1,stroll,aston_martin,22,17,0,43,Lapped,,1:25.410,17
+2026,1,alonso,aston_martin,17,18,0,21,Retired,,1:25.713,18
+2026,1,bottas,cadillac,19,19,0,15,Retired,,1:27.364,20
+2026,1,hadjar,red_bull,3,20,0,10,Retired,,1:25.239,16
+2026,1,piastri,mclaren,5,21,0,0,Did not start,,,
+2026,1,hulkenberg,audi,11,22,0,0,Did not start,,,
+2026,2,antonelli,mercedes,1,1,25,56,Finished,1:33:15.607,1:35.275,1
+2026,2,russell,mercedes,2,2,18,56,Finished,+5.515,1:35.400,2
+2026,2,hamilton,ferrari,3,3,15,56,Finished,+25.267,1:36.092,5
+2026,2,leclerc,ferrari,4,4,12,56,Finished,+28.894,1:36.011,4
+2026,2,bearman,haas,10,5,10,56,Finished,+57.268,1:36.429,8
+2026,2,gasly,alpine,7,6,8,56,Finished,+59.647,1:36.505,9
+2026,2,lawson,rb,14,7,6,56,Finished,+1:20.588,1:37.096,12
+2026,2,hadjar,red_bull,9,8,4,56,Finished,+1:27.247,1:37.311,13

@@ -40,6 +40,9 @@ races_df.drop("Circuit", axis=1, inplace=True)
 
 races_df = pd.concat([races_df, circuits], axis=1)
 
-# print(races_df)
+races_df["round"] = races_df["round"].astype(int)
 
-races_df.to_csv(f'{PROCESSED_DATA_PATH}/races.csv', index=False)
+races_df.rename(columns={"raceName": "race_name"}, inplace=True)
+print(races_df.dtypes)
+
+races_df.to_csv(f"{PROCESSED_DATA_PATH}/races.csv", index=False)

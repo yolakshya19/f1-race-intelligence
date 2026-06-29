@@ -10,7 +10,7 @@ def load_and_fetch(filename):
     return data["MRData"]
 
 
-if __name__ == "__main__":  # need t learn about this
+def transform_drivers():
     drivers = load_and_fetch("drivers.json")["DriverTable"]["Drivers"]
 
     drivers_df = pd.DataFrame(drivers)

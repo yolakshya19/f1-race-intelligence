@@ -1,23 +1,25 @@
 season,round,race_name,date,time,circuit_id,circuit_name,country,locality
-2026,1,Australian Grand Prix,2026-03-08,04:00:00Z,albert_park,Albert Park Grand Prix Circuit,Australia,Melbourne
-2026,2,Chinese Grand Prix,2026-03-15,07:00:00Z,shanghai,Shanghai International Circuit,China,Shanghai
-2026,3,Japanese Grand Prix,2026-03-29,05:00:00Z,suzuka,Suzuka Circuit,Japan,Suzuka
-2026,4,Miami Grand Prix,2026-05-03,20:00:00Z,miami,Miami International Autodrome,USA,Miami
-2026,5,Canadian Grand Prix,2026-05-24,20:00:00Z,villeneuve,Circuit Gilles Villeneuve,Canada,Montreal
-2026,6,Monaco Grand Prix,2026-06-07,13:00:00Z,monaco,Circuit de Monaco,Monaco,Monte Carlo
-2026,7,Barcelona Grand Prix,2026-06-14,13:00:00Z,catalunya,Circuit de Barcelona-Catalunya,Spain,Barcelona
-2026,8,Austrian Grand Prix,2026-06-28,13:00:00Z,red_bull_ring,Red Bull Ring,Austria,Spielberg
-2026,9,British Grand Prix,2026-07-05,14:00:00Z,silverstone,Silverstone Circuit,UK,Silverstone
-2026,10,Belgian Grand Prix,2026-07-19,13:00:00Z,spa,Circuit de Spa-Francorchamps,Belgium,Spa
-2026,11,Hungarian Grand Prix,2026-07-26,13:00:00Z,hungaroring,Hungaroring,Hungary,Budapest
-2026,12,Dutch Grand Prix,2026-08-23,13:00:00Z,zandvoort,Circuit Park Zandvoort,Netherlands,Zandvoort
-2026,13,Italian Grand Prix,2026-09-06,13:00:00Z,monza,Autodromo Nazionale di Monza,Italy,Monza
-2026,14,Spanish Grand Prix,2026-09-13,13:00:00Z,madring,Madring,Spain,Madrid
-2026,15,Azerbaijan Grand Prix,2026-09-26,11:00:00Z,baku,Baku City Circuit,Azerbaijan,Baku
-2026,16,Singapore Grand Prix,2026-10-11,12:00:00Z,marina_bay,Marina Bay Street Circuit,Singapore,Marina Bay
-2026,17,United States Grand Prix,2026-10-25,20:00:00Z,americas,Circuit of the Americas,USA,Austin
-2026,18,Mexico City Grand Prix,2026-11-01,20:00:00Z,rodriguez,Autódromo Hermanos Rodríguez,Mexico,Mexico City
-2026,19,Brazilian Grand Prix,2026-11-08,17:00:00Z,interlagos,Autódromo José Carlos Pace,Brazil,São Paulo
-2026,20,Las Vegas Grand Prix,2026-11-22,04:00:00Z,vegas,Las Vegas Strip Street Circuit,USA,Las Vegas
-2026,21,Qatar Grand Prix,2026-11-29,16:00:00Z,losail,Losail International Circuit,Qatar,Lusail
-2026,22,Abu Dhabi Grand Prix,2026-12-06,13:00:00Z,yas_marina,Yas Marina Circuit,UAE,Abu Dhabi
+2025,1,Australian Grand Prix,2025-03-16,04:00:00Z,albert_park,Albert Park Grand Prix Circuit,Australia,Melbourne
+2025,2,Chinese Grand Prix,2025-03-23,07:00:00Z,shanghai,Shanghai International Circuit,China,Shanghai
+2025,3,Japanese Grand Prix,2025-04-06,05:00:00Z,suzuka,Suzuka Circuit,Japan,Suzuka
+2025,4,Bahrain Grand Prix,2025-04-13,15:00:00Z,bahrain,Bahrain International Circuit,Bahrain,Sakhir
+2025,5,Saudi Arabian Grand Prix,2025-04-20,17:00:00Z,jeddah,Jeddah Corniche Circuit,Saudi Arabia,Jeddah
+2025,6,Miami Grand Prix,2025-05-04,20:00:00Z,miami,Miami International Autodrome,USA,Miami
+2025,7,Emilia Romagna Grand Prix,2025-05-18,13:00:00Z,imola,Autodromo Enzo e Dino Ferrari,Italy,Imola
+2025,8,Monaco Grand Prix,2025-05-25,13:00:00Z,monaco,Circuit de Monaco,Monaco,Monte Carlo
+2025,9,Spanish Grand Prix,2025-06-01,13:00:00Z,catalunya,Circuit de Barcelona-Catalunya,Spain,Barcelona
+2025,10,Canadian Grand Prix,2025-06-15,18:00:00Z,villeneuve,Circuit Gilles Villeneuve,Canada,Montreal
+2025,11,Austrian Grand Prix,2025-06-29,13:00:00Z,red_bull_ring,Red Bull Ring,Austria,Spielberg
+2025,12,British Grand Prix,2025-07-06,14:00:00Z,silverstone,Silverstone Circuit,UK,Silverstone
+2025,13,Belgian Grand Prix,2025-07-27,13:00:00Z,spa,Circuit de Spa-Francorchamps,Belgium,Spa
+2025,14,Hungarian Grand Prix,2025-08-03,13:00:00Z,hungaroring,Hungaroring,Hungary,Budapest
+2025,15,Dutch Grand Prix,2025-08-31,13:00:00Z,zandvoort,Circuit Park Zandvoort,Netherlands,Zandvoort
+2025,16,Italian Grand Prix,2025-09-07,13:00:00Z,monza,Autodromo Nazionale di Monza,Italy,Monza
+2025,17,Azerbaijan Grand Prix,2025-09-21,11:00:00Z,baku,Baku City Circuit,Azerbaijan,Baku
+2025,18,Singapore Grand Prix,2025-10-05,12:00:00Z,marina_bay,Marina Bay Street Circuit,Singapore,Marina Bay
+2025,19,United States Grand Prix,2025-10-19,19:00:00Z,americas,Circuit of the Americas,USA,Austin
+2025,20,Mexico City Grand Prix,2025-10-26,20:00:00Z,rodriguez,Autódromo Hermanos Rodríguez,Mexico,Mexico City
+2025,21,São Paulo Grand Prix,2025-11-09,17:00:00Z,interlagos,Autódromo José Carlos Pace,Brazil,São Paulo
+2025,22,Las Vegas Grand Prix,2025-11-23,04:00:00Z,vegas,Las Vegas Strip Street Circuit,USA,Las Vegas
+2025,23,Qatar Grand Prix,2025-11-30,16:00:00Z,losail,Losail International Circuit,Qatar,Lusail
+2025,24,Abu Dhabi Grand Prix,2025-12-07,13:00:00Z,yas_marina,Yas Marina Circuit,UAE,Abu Dhabi
